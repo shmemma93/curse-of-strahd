@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Morning Lord.md",
+                "file": "zzztemplates/Index draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morning Lord"
+              "title": "Index draft"
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "69b33fc2f85bc7ef",
   "lastOpenFiles": [
+    "Session Notes/Session 2.md",
+    "zzztemplates/Index draft.md",
+    "General/Morning Lord.md",
     "Quests/Help Mad Mary.md",
     "Pasted image 20250814163353.png",
     "Pasted image 20250814163539.png",
@@ -191,7 +194,6 @@
     "Locations/Vistani Camp.md",
     "zzzimages/Vistani Camp.jpg",
     "Locations/Vistani Encampment.md",
-    "Session Notes/Session 2.md",
     "zzzimages/Pasted image 20250814162334.png",
     "zzzimages/Pasted image 20250814162257.png",
     "NPCs/Blue Water Inn Barkeep.md",
@@ -218,7 +220,6 @@
     "Locations/Blood of the Vine Tavern.md",
     "Session Notes/Session 1.md",
     "Quests/Wizard and I.md",
-    "Quests/Man Tearing Down Proclomations.md",
     "zzztemplates/Barovia Map.webp",
     "zzzImages",
     "General"

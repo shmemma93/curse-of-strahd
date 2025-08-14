@@ -1,7 +1,3 @@
----
-title: Curse of Strahd
----
-
 # Welcome to the Player Notes for Declan's Curse of Strahd Campaign
 
 In the menu on the left (hopefully) you will see a wiki containing all of the details from the previous sessions. 
