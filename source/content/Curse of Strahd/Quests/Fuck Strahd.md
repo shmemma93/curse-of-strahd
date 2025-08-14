@@ -1,0 +1,8 @@
+Status: #current 
+Who is this for: [[Alder]], [[Dogorasu]], [[Emereth]], [[Galina]], [[Janet]], [[Matt]] 
+
+# Description of the Quest
+Rizz up [[Strahd]] to escape [[Barovia]].
+# General Notes
+- He’s a hot vampire
+- Allegedly If we rizz up the lord Strahd, he’ll let us out

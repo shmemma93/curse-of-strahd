@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "d28f8f795a9d3608",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccfd2b39d1674e5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b2bb3883158c52f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "129e8115ed66a123",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "369365d0179a74ed",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "bdfc1015705d6761",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0f9f0c10a95e0e76",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d0c3281c683bb212",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "068445d68ff9a3cb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a66044837e640a01",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9cf6f7d38db56718",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Another test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d24bff46c87295e4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Another test.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5b2bb3883158c52f",
+  "lastOpenFiles": [
+    "Quests/Escort Ismark’s sister to Vallaki.md",
+    "Quests/Statue.md",
+    "Quests/The Conjurer.md",
+    "Quests/The Donjon.md",
+    "Quests/Find Madame Eva.md",
+    "Quests/Girl from the Lake.md",
+    "Quests/Defeat the Hag (Lady buying and or trafficking kids in Barovia).md",
+    "Quests/Wizard and I.md",
+    "Quests/Crying Womans House.md",
+    "Quests/What's in the Cellar?.md",
+    "Quests/Man Tearing Down Proclomations.md",
+    "Quests/People in Stocks.md",
+    "Quests/Stocks.md",
+    "Quests/The Bishop.md",
+    "Quests/The Torturer.md",
+    "Quests/More Wine!.md",
+    "Quests/The Tempter.md",
+    "Quests/Fuck Strahd.md",
+    "Quests/Bury Ismark's Father.md",
+    "Player Characters/Alder.md",
+    "Player Characters/Galina.md",
+    "Player Characters/Mushy.md",
+    "Player Characters/Emereth.md",
+    "Player Characters/Dogorasu.md",
+    "Player Characters/Janet.md",
+    "Player Characters/Matt Lumen.md",
+    "Player Characters",
+    "General",
+    "Zzztemplates",
+    "Characters/Alder",
+    "Characters/Emereth",
+    "Characters/Matt",
+    "Characters/Janet",
+    "Characters/Dogorasu",
+    "Characters/Galina",
+    "Characters"
+  ]
+}

@@ -1,0 +1,1 @@
+* Night Hags were previously fey creatures who are now fiends
