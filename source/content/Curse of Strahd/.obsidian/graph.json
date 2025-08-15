@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:zzztemplates -path:zzzimages -path:zzzfunimages  ",
+  "search": "-path:zzztemplates -path:zzzimages  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,

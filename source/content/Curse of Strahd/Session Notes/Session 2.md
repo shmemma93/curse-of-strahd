@@ -1,11 +1,12 @@
 Link to OG notes: https://docs.google.com/document/d/10MQ5O67Y9ED063wzYoqpwuBLu_KJ_C7eEk8y6BxenJk/edit?tab=t.dk48kfplm7vb
+
 Who was here this session: [[Emereth]], [[Dogorasu]], [[Alder]], [[Galina]], [[Janet]], and [[Matt]]
 
 The party enters the [[Old Bonegrinder Mill]] and takes a look around the ground floor. [[Galina]] opens the cupboard, sees and steals vials labelled youth (golden yellow), laughter (red), and mothers milk (green). 
 
-The [[Dogorasu]] heads up to the second floor, [[Janet]], [[Emereth]], and [[Matt]] follow him and they meet [[Main Hag]], she then calls her daughters ([[Hags Daughters]]). [[Emereth]] attacks one of the hags and we all get absolutely wrecked so we all run away. 
+[[Dogorasu]] heads up to the second floor, [[Janet]], [[Emereth]], and [[Matt]] follow him and they meet [[Main Hag]], she then calls her daughters ([[Hags Daughters]]). [[Emereth]] attacks one of the hags and we all get absolutely wrecked so we all run away. 
 
-As we're leaving we see the [[Megaliths]]. [[Janet]] manages to pick up a 5ft tall rock, a pastry falls off of the rock and she eats it and immediately falls unconscious. 
+As we're leaving we see the [[Megaliths]]. [[Janet]] manages to pick up a 5ft tall rock, a pastry falls off of the rock and she eats it and immediately falls unconscious. Matt takes a look at the rocks, he notices a pile of teeth at the foot of one of the rocks and remembers that [[Archfey, Kithilan of the Crooked-Teeth]] takes offerings of teeth.
 
 The party keeps walking and comes across a pack of wolves. [[Alder]] speaks to the wolves and they seem to work for [[Strahd]] as "their master lives in a big stone cave". [[Alder]] tries to convince them to let us pass, but they are not convinced. We manage to leave.
 

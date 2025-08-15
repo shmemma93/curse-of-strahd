@@ -1,4 +1,5 @@
 Link to OG notes: https://docs.google.com/document/d/10MQ5O67Y9ED063wzYoqpwuBLu_KJ_C7eEk8y6BxenJk/edit?tab=t.ezfwj2gfibo4
+
 Who was here this session: [[Emereth]], [[Dogorasu]], [[Alder]], [[Galina]], [[Janet]], and [[Matt]]
 
 The party all start in the [[Village of Barovia]]. We pass by [[Mad Marys House]] and find out later from [[Ismark Indirovich]] that the crying woman is called [[Mad Mary]]. 
