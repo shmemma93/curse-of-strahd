@@ -1,6 +1,6 @@
 Status: #complete 
-Who is this for: [[Ismark Indirovich]]
 
+Who is this for: [[Ismark Indirovich]]
 # Description of the Quest
 Escort [[Ireena Indirovich]] to [[Vallaki]]. 
 # General Notes

@@ -1,14 +1,15 @@
 Location met: [[Village of Barovia]]
+
 Last known location:[[Village of Barovia]]
 
 # Description
+General - 
 
-## Age
+Age - 
 
-## Species
+Species - 
 
-## Characteristics
-
+Characteristics - 
 # Associates
 
 # Known Aliases

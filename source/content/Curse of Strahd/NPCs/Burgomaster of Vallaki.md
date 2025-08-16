@@ -1,14 +1,15 @@
 Location met: 
+
 Last known location: [[Vallaki]]
 
 # Description
+General - 
 
-## Age
+Age - 
 
-## Species
+Species - 
 
-## Characteristics
-
+Characteristics - 
 # Associates
 
 # Known Aliases

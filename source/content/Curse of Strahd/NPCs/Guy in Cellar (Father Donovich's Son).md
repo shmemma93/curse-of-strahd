@@ -1,14 +1,14 @@
-Location met: [[Church and Cemetery]]
-Last known location: [[Church and Cemetery]]
+Location met: [[Village of Barovia Church and Cemetery]]
+
+Last known location: [[Village of Barovia Church and Cemetery]]
 
 # Description
 
-## Age
+Age - 
 
-## Species
+Species - 
 
-## Characteristics
-
+Characteristics - 
 # Associates
 [[Father Donovich]] - is his father
 # Known Aliases

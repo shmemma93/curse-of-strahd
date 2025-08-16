@@ -18,7 +18,7 @@ After accepting [[Ismark Indirovich]]'s quest, we head to the [[Burgomaster of B
 
 **Quest triggered: [[Bury Ismark's Father]]**
 
-The party decides to head to [[Church and Cemetery]], where upon entry we meet [[Father Donovich]] and we can also hear screams coming from within a trapdoor. The screams are from what sounds like a man and that he is hungry "FATHER! I AM HUNGRY". [[Father Donovich]] lets us know that [[Strahd]] took his son [[Guy in Cellar (Father Donovich's Son)]], although he doesnt tell us what happened to his son. 
+The party decides to head to [[Village of Barovia Church and Cemetery]], where upon entry we meet [[Father Donovich]] and we can also hear screams coming from within a trapdoor. The screams are from what sounds like a man and that he is hungry "FATHER! I AM HUNGRY". [[Father Donovich]] lets us know that [[Strahd]] took his son [[Guy in Cellar (Father Donovich's Son)]], although he doesnt tell us what happened to his son. 
 
 **Quest triggered: [[What's in the Cellar?]]**
 

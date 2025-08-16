@@ -1,14 +1,14 @@
-Location met: 
+Location met: [[Village of Barovia]]
 Last known location: [[The Blue Water Inn]]
 ![[Ismark.jpg]]
 # Description
+General - 
 
-## Age
+Age - 
 
-## Species
+Species - 
 
-## Characteristics
-
+Characteristics - 
 # Associates
 * [[Ireena Indirovich]] is his sister
 * [[Kolyan Indirovich]] is his father

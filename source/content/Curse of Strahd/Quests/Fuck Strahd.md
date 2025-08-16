@@ -1,6 +1,6 @@
 Status: #current 
-Who is this for: [[Alder]], [[Dogorasu]], [[Emereth]], [[Galina]], [[Janet]], [[Matt]] 
 
+Who is this for: [[Alder]], [[Dogorasu]], [[Emereth]], [[Galina]], [[Janet]], [[Matt]] 
 # Description of the Quest
 Rizz up [[Strahd]] to escape [[Barovia]].
 # General Notes

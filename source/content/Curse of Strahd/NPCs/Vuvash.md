@@ -1,14 +1,15 @@
 Location met: [[Vistani Camp]]
+
 Last known location: [[Vistani Camp]]
 
 # Description
+General - 
 
-## Age
+Age - 
 
-## Species
+Species - 
 
-## Characteristics
-
+Characteristics - 
 # Associates
 
 # Known Aliases

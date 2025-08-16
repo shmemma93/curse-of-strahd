@@ -1,6 +1,6 @@
 Status: #current 
-Who is this for: [[Father Donovich]]
 
+Who is this for: [[Father Donovich]]
 # Description of the Quest
 Save [[Guy in Cellar (Father Donovich's Son)]]. We don't know if he has been turned into a vampire or not. 
 # General Notes

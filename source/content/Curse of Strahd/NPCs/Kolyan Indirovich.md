@@ -1,14 +1,15 @@
 Location met - in a coffin in [[Burgomaster of Barovia's Mansion]]
-Last known location - Buried in [[Church and Cemetery]]
+
+Last known location - Buried in [[Village of Barovia Church and Cemetery]]
 
 # Description
+General - Dead
 
-## Age
+Age - 
 
-## Species
+Species - 
 
-## Characteristics
-
+Characteristics - 
 # Associates
 [[Ireena Indirovich]] is his daughter
 [[Ismark Indirovich]] is his son

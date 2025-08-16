@@ -1,14 +1,15 @@
 Location met: [[The Blue Water Inn]]
+
 Last known location:[[The Blue Water Inn]]
 ![[Blue Water Barkeep.png]]
 # Description
+General - 
 
-## Age
+Age - 
 
-## Species
+Species - 
 
-## Characteristics
-
+Characteristics - 
 # Associates
 
 # Known Aliases

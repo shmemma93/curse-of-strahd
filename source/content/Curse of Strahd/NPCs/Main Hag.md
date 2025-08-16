@@ -1,4 +1,5 @@
 Location met: Met the main hag in [[Village of Barovia]]
+
 Last known location: [[Old Bonegrinder Mill]]
 ![[Hags - Pretty.png]]
 ![[Hags - Scary.png]]

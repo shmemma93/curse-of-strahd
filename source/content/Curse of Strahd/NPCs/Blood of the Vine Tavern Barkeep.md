@@ -1,14 +1,15 @@
 Location met: [[Blood of the Vine Tavern]]
+
 Last known location: [[Blood of the Vine Tavern]]
 
 # Description
-Portly and balding
-## Age
+General - Portly and balding
 
-## Species
+Age - 
 
-## Characteristics
+Species - 
 
+Characteristics - 
 # Associates
 
 # Known Aliases

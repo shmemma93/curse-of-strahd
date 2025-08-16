@@ -1,6 +1,8 @@
 Location met: [[Vistani Encampment]]
+
 Last known location: [[Vistani Encampment]]
 
+![[Madame Eva - Tarokka Reading.jpeg]]
 # Description
 
 ## Age

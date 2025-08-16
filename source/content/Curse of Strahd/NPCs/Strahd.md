@@ -1,13 +1,14 @@
 Location met: 
+
 Last known location:
 # Description
+General - 
 
-## Age
+Age - 
 
-## Species
+Species - 
 
-## Characteristics
-
+Characteristics - 
 # Associates
 
 # Known Aliases
