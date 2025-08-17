@@ -4,12 +4,11 @@ Last known location: [[Vistani Encampment]]
 
 ![[Madame Eva - Tarokka Reading.jpeg]]
 # Description
+Age - 
 
-## Age
+Species - 
 
-## Species
-
-## Characteristics
+**Characteristics**
 
 # Associates
 

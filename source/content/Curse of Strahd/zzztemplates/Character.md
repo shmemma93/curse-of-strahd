@@ -3,13 +3,12 @@ Location met:
 Last known location: 
 
 # Description
-General - 
-
 Age - 
 
 Species - 
 
-Characteristics - 
+**Characteristics**
+
 # Associates
 
 # Known Aliases

@@ -2,13 +2,12 @@ Location met: [[Village of Barovia]]
 
 Last known location: [[Village of Barovia]]
 # Description
-General - child
-
-Age - 
+Age - Child
 
 Species - 
 
-Characteristics - 
+**Characteristics**
+
 # Associates
 
 # Known Aliases

@@ -1,16 +1,14 @@
 Location met: [[Vistani Camp]]
 
 Last known location: [[Vistani Camp]]
-
 # Description
-General - 
-
 Age - 
 
 Species - 
 
-Characteristics - 
+**Characteristics**
+
 # Associates
 
 # Known Aliases
-daughter is [[Arabelle]]
+* Daughter is [[Arabelle]]

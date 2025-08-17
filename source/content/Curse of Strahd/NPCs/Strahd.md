@@ -2,19 +2,18 @@ Location met:
 
 Last known location:
 # Description
-General - 
-
 Age - 
 
 Species - 
 
-Characteristics - 
+**Characteristics**
+
 # Associates
 
 # Known Aliases
 * Full name is: Strahd von Zarovich
-* 
+* Dark Lord
 # Other Info
-Possibly has undead enemies in the [[Order of the Silver Dragon]]. Also Strahd's biggest secret is a temple (name TBC, link here: [[Strahd's Secret Temple]]) accessible by [[Silenca Pass]]. This info came from the main hag in [[Main Hag]], so it may not be reliable.
+Possibly has undead enemies in the [[Order of the Silver Dragon]]. Also Strahd's biggest secret is a temple ([[Strahd's Secret Temple]]) accessible by [[Silenca Pass]]. This info came from [[Main Hag]], so it may not be reliable.
 
 

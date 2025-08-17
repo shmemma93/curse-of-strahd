@@ -5,10 +5,11 @@ Last known location: [[Old Bonegrinder Mill]]
 ![[Hags - Scary.png]]
 
 # Description
+Age - 
 
-Age
 Species - [[Night Hags]]
-Characteristics
+
+**Characteristics**
 
 # Associates
 * [[Hags Daughters]] - are her daughters

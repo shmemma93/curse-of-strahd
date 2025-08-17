@@ -3,13 +3,12 @@ Location met: [[Lake Zarovich]]
 Last known location:[[Vistani Camp]]
 ![[Arrabelle.png]]
 # Description
-General - 
-
-Age - 
+Age - child
 
 Species - 
 
-Characteristics - 
+**Characteristics**
+
 # Associates
 * Father is [[Vuvash]]
 

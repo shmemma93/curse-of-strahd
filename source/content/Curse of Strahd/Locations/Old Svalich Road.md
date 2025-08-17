@@ -1,0 +1,1 @@
+Located throughout [[Barovia]].

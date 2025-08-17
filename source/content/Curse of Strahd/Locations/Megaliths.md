@@ -1,4 +1,5 @@
 Located in [[Barovia Valley]]
+
 ![[Megaliths.webp]]
 # Description
 The Megaliths are massive stones which were erected out of the ground

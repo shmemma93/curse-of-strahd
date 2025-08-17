@@ -1,1 +1,1 @@
- * often took teeth as offerings. 
+* Often took teeth as offerings. 
