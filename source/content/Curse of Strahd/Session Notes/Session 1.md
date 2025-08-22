@@ -18,13 +18,13 @@ After accepting [[Ismark Indirovich]]'s quest, we head to the [[Burgomaster of B
 
 **Quest triggered: [[Bury Ismark's Father]]**
 
-The party decides to head to [[Village of Barovia Church and Cemetery]], where upon entry we meet [[Father Donovich]] and we can also hear screams coming from within a trapdoor. The screams are from what sounds like a man and that he is hungry "FATHER! I AM HUNGRY". [[Father Donovich]] lets us know that [[Strahd]] took his son [[Guy in Cellar (Father Donovich's Son)]], although he doesnt tell us what happened to his son. 
+The party decides to head to [[Village of Barovia Church and Cemetery]], where upon entry we meet [[Father Donovich]] and we can also hear screams coming from within a trapdoor. The screams are from what sounds like a man and that he is hungry "FATHER! I AM HUNGRY". [[Father Donovich]] lets us know that [[Strahd von Zarovich]] took his son [[Guy in Cellar (Father Donovich's Son)]], although he doesnt tell us what happened to his son. 
 
 **Quest triggered: [[What's in the Cellar?]]**
 
 From here we head out to the Cemetery and spend many hours digging a hole for [[Kolyan Indirovich]], we have a nice ceremony and head back to [[Burgomaster of Barovia's Mansion]].
 
-On the way back we meet an old lady ([[Main Hag]]) who is taking a child ([[Lucien]]) from his parents as payment for wares. [[Lucien]] is worth 1200 gold. [[Emereth]] punches the lady, the rest of the party joins in to defeat [[Main Hag]]. Before she disappears she says that [[Strahd]] has undead enemies in the [[Order of the Silver Dragon]] and that [[Strahd]]'s biggest secret is a [[Strahd's Secret Temple]] accessible via the [[Silenca Pass]]. 
+On the way back we meet an old lady ([[Main Hag]]) who is taking a child ([[Lucien]]) from his parents as payment for wares. [[Lucien]] is worth 1200 gold. [[Emereth]] punches the lady, the rest of the party joins in to defeat [[Main Hag]]. Before she disappears she says that [[Strahd von Zarovich]] has undead enemies in the [[Order of the Silver Dragon]] and that [[Strahd von Zarovich]]'s biggest secret is a [[Strahd's Secret Temple]] accessible via the [[Silenca Pass]]. 
 
 **Quest triggered: [[Stop the Hag Trafficking Kids]]**
 
@@ -34,7 +34,7 @@ After returning [[Lucien]] to his parents, we start heading down a path into [[B
 
 There is a letter on the road addressed to [[Matt]]. The letter is from his father ([[Matt's Dad]]) who is almost departed, but it seems suspicious. The party continues on and we end up at the [[Vistani Encampment]]. 
 
-Once we get there the [[Tser Pool]] is nearby, [[Janet]] jumps in to get clean and [[Alder]] joins her. When we arrive and older vistani approaches [[Matt]] and says "it was fated you would visit our humble camp" and directs us to a tent. A younger woman asks us to sit and listen to a story. It describes a man on horseback and a mighty wizard (presumably [[Wizard]]) came to this land over a year ago, could rally people against [[Strahd]]. The army fled in terror of [[Strahd]], [[Wizard]] and [[Strahd]] fought, [[Wizard]] lost and is now missing. 
+Once we get there the [[Tser Pool]] is nearby, [[Janet]] jumps in to get clean and [[Alder]] joins her. When we arrive and older vistani approaches [[Matt]] and says "it was fated you would visit our humble camp" and directs us to a tent. A younger woman asks us to sit and listen to a story. It describes a man on horseback and a mighty wizard (presumably [[Wizard]]) came to this land over a year ago, could rally people against [[Strahd von Zarovich]]. The army fled in terror of [[Strahd von Zarovich]], [[Wizard]] and [[Strahd von Zarovich]] fought, [[Wizard]] lost and is now missing. 
 
 We enter [[Madame Eva]]'s tent, [[Janet]] kisses the Tarokka deck and [[Madame Eva]] deals five cards:
 * The Torturer

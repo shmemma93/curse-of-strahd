@@ -1,6 +1,6 @@
 Status: #current 
 
-Who is this for: [[Blue Water Inn Barkeep]]
+Who is this for: [[Danicka Martikov]]
 # Description of the Quest
-Go to CANNOT REMEMBER WHERE and bring wine back for [[Blue Water Inn Barkeep]], as the [[The Blue Water Inn]] is running out of wine. 
+Go to [[Wizard of Wines Vineyard]] and bring wine back for [[Danicka Martikov]], as the [[The Blue Water Inn]] is running out of wine. 
 # General Notes

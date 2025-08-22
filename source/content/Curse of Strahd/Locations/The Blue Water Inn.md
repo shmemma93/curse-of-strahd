@@ -1,6 +1,6 @@
 Located in [[Vallaki]]
 
-*Map image if there is one*
+![[Blue Water Inn.png]]
 # Description
-* The barkeep is [[Blue Water Inn Barkeep]]
+* The barkeep is [[Danicka Martikov]]
 * There is a well outside

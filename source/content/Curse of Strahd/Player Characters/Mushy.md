@@ -1,2 +1,2 @@
-* Companion of [[Emereth]
+* Companion of [[Emereth]]
 * Loves to sing

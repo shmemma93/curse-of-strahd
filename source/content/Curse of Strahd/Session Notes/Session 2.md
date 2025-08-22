@@ -8,7 +8,7 @@ The party enters the [[Old Bonegrinder Mill]] and takes a look around the ground
 
 As we're leaving we see the [[Megaliths]]. [[Janet]] manages to pick up a 5ft tall rock, a pastry falls off of the rock and she eats it and immediately falls unconscious. Matt takes a look at the rocks, he notices a pile of teeth at the foot of one of the rocks and remembers that [[Archfey, Kithilan of the Crooked-Teeth]] takes offerings of teeth.
 
-The party keeps walking and comes across a pack of wolves. [[Alder]] speaks to the wolves and they seem to work for [[Strahd]] as "their master lives in a big stone cave". [[Alder]] tries to convince them to let us pass, but they are not convinced. We manage to leave.
+The party keeps walking and comes across a pack of wolves. [[Alder]] speaks to the wolves and they seem to work for [[Strahd von Zarovich]] as "their master lives in a big stone cave". [[Alder]] tries to convince them to let us pass, but they are not convinced. We manage to leave.
 
 We come across a lake ([[Lake Zarovich]]]), we see a man on a boat drop a sack into the lake. We grab two extra boats and row out after the man. [[Emereth]] was unable to pull up the sack but [[Janet]] manages to haul it into their boat.  After opening the sack we meet a child ([[Arabelle]]). She wants to go back to a camp near [[Vallaki]] ([[Vistani Camp]]). 
 
@@ -29,7 +29,7 @@ Because we returned [[Arabelle]] safely, we are able to choose two of the follow
 
 We ended up selecting the Onyx chest which contained 600 gold and the small wooden box, which had 12 stoppered gourds with nettle wine in them. 
 
-The group now headed to the [[The Blue Water Inn]]. Here [[Galina]] plays Five Finger Fillet with two drunk guys in the bar and wins, [[Matt]] finds [[Ismark Indirovich]] and has a chat, [[Emereth]] tries to talk up [[Bard in Blue Water Inn]], but shes not succeeding. [[Janet]] speaks to [[Blue Water Inn Barkeep]] who confesses that they are nearly out of wine. [[Janet]] agrees but loudly tells the Inn that they are nearly out of wine
+The group now headed to the [[The Blue Water Inn]]. Here [[Galina]] plays Five Finger Fillet with two drunk guys ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]) in the bar and wins, [[Matt]] finds [[Ismark Indirovich]] and has a chat, [[Emereth]] tries to talk up [[Bard in Blue Water Inn]], but shes not succeeding. [[Janet]] speaks to [[Danicka Martikov]] who confesses that they are nearly out of wine. [[Janet]] agrees but loudly tells the Inn that they are nearly out of wine
 
 **Quest Triggered: [[More Wine!]]**
 
