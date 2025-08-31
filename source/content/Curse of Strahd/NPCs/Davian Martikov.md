@@ -11,7 +11,7 @@ Species -
 **Characteristics**
 
 # Associates
-* [[Danicka Martikov's Husband]] is his son
+* [[Irwin Martikov]] is his son
 * [[Adrian Martikov]] is his son
 * [[Elvir Martikov]] is his son
 # Known Aliases

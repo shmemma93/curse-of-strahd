@@ -12,7 +12,7 @@ There are three gems to find:
 * Weeks before triggering the quest, the gem was taken by [[Barbalasaga]] back to the ruins of [[Barez]]
 
 ## Gem Stolen Years Ago #current 
-* The gem was dug up and stolen while [[Danicka Martikov's Husband]] was supposed to be on watch
+* The gem was dug up and stolen while [[Irwin Martikov]] was supposed to be on watch
 
 # General Notes
 * Went to [[Yesterhill]] in [[Session 3]] and ran away because it was scary as heck

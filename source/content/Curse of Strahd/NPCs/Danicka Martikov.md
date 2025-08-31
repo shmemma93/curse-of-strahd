@@ -2,7 +2,7 @@ Location met: [[The Blue Water Inn]]
 
 Last known location:[[The Blue Water Inn]]
 
-![[Danicka and Family.png]]
+![[Martikov Family - Blue Water Inn.png]]
 # Description
 Age - Middle aged female
 
@@ -12,5 +12,5 @@ Species -
 
  
 # Associates
-* [[Danicka Martikov's Husband]] is her husband
+* [[Irwin Martikov]] is her husband
 # Known Aliases

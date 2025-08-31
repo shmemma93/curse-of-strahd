@@ -23,14 +23,14 @@ We come across another sign which has the following signs:
 * East - [[Vallaki]]
 * South-West - [[Wizard of Wines Vineyard]]
 
-We continue along the path to [[Wizard of Wines Vineyard]]. Once we get there we see a man ([[Davian Martikov]]) in a dark cloak and cowl. [[Janet]] walks up lets [[Davian Martikov]] know that we are here for the wine for [[The Blue Water Inn]]. [[Davian Martikov]] laughs, his son ([[Danicka Martikov's Husband]]) is his son. [[Janet]] asks him about the wine and he states that the winery is full of needle blights, which poisoned the fermentation vats.
+We continue along the path to [[Wizard of Wines Vineyard]]. Once we get there we see a man ([[Davian Martikov]]) in a dark cloak and cowl. [[Janet]] walks up lets [[Davian Martikov]] know that we are here for the wine for [[The Blue Water Inn]]. [[Davian Martikov]] laughs, his son ([[Irwin Martikov]]) is his son. [[Janet]] asks him about the wine and he states that the winery is full of needle blights, which poisoned the fermentation vats.
 
 [[Davian Martikov]] states that they cannot grow more wine, as the three gems which give the winery magic have been stolen. 
 
 The details about the gems:
 * Five days ago some druids, who are obsessed with dark powers took a gem to [[Yesterhill]]
 * Weeks ago a gem was taken by the witch [[Barbalasaga]], who is in the ruins of [[Barez]]
-* Many years ago, a gem was dug up and stolen while [[Danicka Martikov's Husband]] was on watch.
+* Many years ago, a gem was dug up and stolen while [[Irwin Martikov]] was on watch.
 
 **Quest triggered: [[Find the Wine Making Gems]]**
 

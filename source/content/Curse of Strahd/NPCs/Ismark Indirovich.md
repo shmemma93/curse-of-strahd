@@ -1,6 +1,6 @@
 Location met: [[Village of Barovia]]
 Last known location: [[The Blue Water Inn]]
-![[Ismark.jpg]]
+![[Ismark Indirovich.jpg]]
 # Description
 Age - 
 

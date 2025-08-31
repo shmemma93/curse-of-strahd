@@ -12,3 +12,5 @@ Species -
 # Associates
 
 # Known Aliases
+* Burgomaster of Vallaki
+* Baron Vargus Vallarkovich

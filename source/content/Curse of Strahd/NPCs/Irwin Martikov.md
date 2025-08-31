@@ -2,7 +2,7 @@ Location met: [[The Blue Water Inn]]
 
 Last known location: [[The Blue Water Inn]]
 
-![[Danicka and Family.png]]
+![[Martikov Family - Blue Water Inn.png]]
 # Description
 Age - 
 

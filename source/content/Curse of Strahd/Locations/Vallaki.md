@@ -1,6 +1,7 @@
 Located in [[Barovia Valley]]
 
-![[Vallaki.jpg]]
+![[Vallaki - Night Distance.jpg]]
+![[Vallaki - Town Square.png]]
 # Description
 When standing in the town square there are a number of flyers (pictured below). There is a toy workshop, mansions and a church. There are wolves heads on pikes. 
 
