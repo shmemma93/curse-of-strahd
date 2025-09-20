@@ -9,7 +9,7 @@ There are three gems to find:
 * Five days before triggering the quest, a group of druids took the gem to [[Yesterhill]]
 
 ## Gem Taken by the Witch #current 
-* Weeks before triggering the quest, the gem was taken by [[Barbalasaga]] back to the ruins of [[Barez]]
+* Weeks before triggering the quest, the gem was taken by [[Baba Lysaga]] back to the ruins of [[Barez]]
 
 ## Gem Stolen Years Ago #current 
 * The gem was dug up and stolen while [[Irwin Martikov]] was supposed to be on watch

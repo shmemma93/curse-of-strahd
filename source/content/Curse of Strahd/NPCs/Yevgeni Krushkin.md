@@ -1,6 +1,6 @@
 Location met: [[The Blue Water Inn]]
 
-Last known location: with the party
+Last known location: [[The Blue Water Inn]]
 
 ![[Yevgeni Krushkin.png]]
 # Description

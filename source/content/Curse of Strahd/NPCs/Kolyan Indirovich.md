@@ -9,7 +9,7 @@ Species -
 **Characteristics**
 * Dead
 # Associates
-[[Ireena Indirovich]] is his daughter
-[[Ismark Indirovich]] is his son
+[[Ireena Kolyana]] is his daughter
+[[Ismark Koylanovich]] is his son
 # Known Aliases
 * Burgomaster of Barovia

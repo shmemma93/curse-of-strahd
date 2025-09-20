@@ -1,5 +1,5 @@
-Located in [[Village of Barovia]]
+Located in [[Barovia Town]]
 
 *Map image if there is one*
 # Description
-[[Ireena Indirovich]] and [[Ismark Indirovich]] live here.
+[[Ireena Kolyana]] and [[Ismark Koylanovich]] live here.

@@ -1,7 +1,9 @@
 Link to OG notes: https://docs.google.com/document/d/10MQ5O67Y9ED063wzYoqpwuBLu_KJ_C7eEk8y6BxenJk/edit?tab=t.2au7wof23giv
 
 Who was here this session: [[Emereth]], [[Dogorasu]], [[Alder]], [[Galina]], [[Janet]], and [[Matt]]
-
+# TLDR
+We all wreck some more druids and [[Matt]] ends up with a staff. We find more wine in the cellar which we end up hauling onto the cart and taking with us back to [[The Blue Water Inn]]. Before we can leave for [[The Blue Water Inn]], the massive tree appears and Matt destroys it by snapping the staff. We get the wine to [[Irwin Martikov]]. We head to the [[Vallaki]] town square and find out the Festival of the Blazing Sun is happening tomorrow. [[Emereth]] frees the people in the stocks and we follow them to [[St Andral's Cathedral]]. There we find out that the bones of St Andral have been stolen and we need to retrieve them. We end up tracking down that the bones are in [[Henrik Van der Voort]]'s store, so we head there. 
+# Detailed Notes
 The group finishes off the needle blights and the druid. Then [[Galina]] heads into a bedroom. In it is a tapestry of a church with a rocking cradle under it and a bed with a raven headboard. 
 
 Inside the chest [[Galina]] manages to unlock the chest and inside is:
@@ -21,9 +23,9 @@ The staff is made of gnarled wood, blackened from head to toe and is approx. 4ft
 
 We all enter the cellar and there is a voice who is casting a spell and there is a druid and five blights. After defeating them we see that there are three barrels of Purple Grape Mash number 3. 
 
-[[Janet]] asks [[Adrian Martikov]] how they are able to turn into ravens. He states that the are [[Were-Ravens]] and are [[Keepers of the Feather]]. 
+[[Janet]] asks [[Adrian Martikov]] how they are able to turn into ravens. He states that the are [[Wereravens]] and are [[Keepers of the Feather]]. 
 
-As we are talking ti [[Adrian Martikov]], we feel the earth shaking and see the giant tree from [[Yesterhill]] lumbering towards us. [[Matt]] snaps the staff in half and the giant tree withers and dies
+As we are talking to [[Adrian Martikov]], we feel the earth shaking and see the giant tree from [[Yesterhill]] lumbering towards us. [[Matt]] snaps the staff in half and the giant tree withers and dies
 
 The Martikovs give us horses to take the wine back to [[The Blue Water Inn]]. [[Yevgeni Krushkin]], [[Szoldar Szoldarovich]], [[Adrian Martikov]] and [[Elvir Martikov]] come with us. 
 
@@ -32,8 +34,6 @@ When the group reaches [[Vallaki]] we drop the wine at [[The Blue Water Inn]]. [
 We head to the Town Square where a man is yelling and letting everyone know that [[Burgomaster Vargus Vallakovich]] wants everyone to attend the Festival of the Blazing Sun tomorrow. Upon speaking to the yeller we find out that there is a festival every week in [[Vallaki]]. We ask about the people in the stocks, they forgot to pretend to be happy. The yeller also lets us know that 'Trouble' will land you a trip to [[Burgomaster Vargus Vallakovich]]'s mansion and you will not come back. 
 
 [[Emereth]] walks up to one of the people in the stocks and he said that he asked for help and now he's in the stocks for three days. The man states that he just wants to leave town but [[Burgomaster Vargus Vallakovich]] will not let people leave. 
-
-**Quest triggered: [[Help People of Vallaki Escape]]**
 
 [[Emereth]] tries to get the guards to leave the people in the stocks, so he bribes them 50 GP and the guard lets the people go. 
 

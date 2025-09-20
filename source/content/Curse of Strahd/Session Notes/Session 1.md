@@ -1,8 +1,10 @@
 Link to OG notes: https://docs.google.com/document/d/10MQ5O67Y9ED063wzYoqpwuBLu_KJ_C7eEk8y6BxenJk/edit?tab=t.ezfwj2gfibo4
 
 Who was here this session: [[Emereth]], [[Dogorasu]], [[Alder]], [[Galina]], [[Janet]], and [[Matt]]
-
-The party all start in the [[Village of Barovia]]. We pass by [[Mad Marys House]] and find out later from [[Ismark Indirovich]] that the crying woman is called [[Mad Mary]]. 
+# TLDR
+We all meet in the [[Barovia Town]] and head to [[Blood of the Vine Tavern]] where we find out that we need to see [[Madame Eva]] and get our future read. We meet [[Ismark Koylanovich]] and he asks us to transport [[Ireena Kolyana]] to [[Vallaki]]. We head to the [[Burgomaster of Barovia's Mansion]] where we find the body of [[Kolyan Indirovich]] who we need to bury. We head to [[Village of Barovia Church and Cemetery]] and bury [[Kolyan Indirovich]] and meet [[Father Donovich]] and her his son, who is locked in the cellar. We then meet [[Main Hag]] who is trying to buy [[Lucien]]. We fight her and she disappears. We end up heading to the [[Vistani Encampment]] to meet [[Madame Eva]], who reads our fortunes. We start to head to [[Vallaki]] and come across [[Old Bonegrinder Mill]] on the way.
+# Detailed Notes
+The party all start in the [[Barovia Town]]. We pass by [[Mad Marys House]] and find out later from [[Ismark Koylanovich]] that the crying woman is called [[Mad Mary]]. 
 
 **Quest triggered: [[Help Mad Mary]]**
 
@@ -10,11 +12,11 @@ The party enters [[Blood of the Vine Tavern]] and we find out from three Vistani
 
 **Quest triggered: [[Find Madame Eva]]**
 
-Here we also meet [[Ismark Indirovich]]. He asks us to transport his sister ([[Ireena Indirovich]]) to [[Vallaki]]. 
+Here we also meet [[Ismark Koylanovich]]. He asks us to transport his sister ([[Ireena Kolyana]]) to [[Vallaki]]. 
 
 **Quest triggered: [[Escort Ireena to Vallaki]]**
 
-After accepting [[Ismark Indirovich]]'s quest, we head to the [[Burgomaster of Barovia's Mansion]]. When we enter we see a coffin, which we find out contains [[Ismark Indirovich]] and [[Ireena Indirovich]]'s father ([[Kolyan Indirovich]]). Although she will not go to [[Vallaki]] without her father being buried
+After accepting [[Ismark Koylanovich]]'s quest, we head to the [[Burgomaster of Barovia's Mansion]]. When we enter we see a coffin, which we find out contains [[Ismark Koylanovich]] and [[Ireena Kolyana]]'s father ([[Kolyan Indirovich]]). Although she will not go to [[Vallaki]] without her father being buried
 
 **Quest triggered: [[Bury Ismark's Father]]**
 
@@ -28,7 +30,7 @@ On the way back we meet an old lady ([[Main Hag]]) who is taking a child ([[Luci
 
 **Quest triggered: [[Stop the Hag Trafficking Kids]]**
 
-After returning [[Lucien]] to his parents, we start heading down a path into [[Barovia Valley]]. We come to a cross roads where there is a sign with [[Village of Barovia]] to the east, [[Tser Pool]] to the West where there is also a [[Vistani Encampment]] and [[Ravenloft]]/[[Vallaki]] to the southwest. The group heads towards [[Vallaki]].
+After returning [[Lucien]] to his parents, we start heading down a path into [[Barovia Valley]]. We come to a cross roads where there is a sign with [[Barovia Town]] to the east, [[Tser Pool]] to the West where there is also a [[Vistani Encampment]] and [[Ravenloft]]/[[Vallaki]] to the southwest. The group heads towards [[Vallaki]].
 
 [[Galina]] sees a lifeless grey corpse hanging on the gallows, which rapidly decays upon direct sight. 
 

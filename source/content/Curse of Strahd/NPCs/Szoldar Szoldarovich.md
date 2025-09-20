@@ -1,6 +1,6 @@
 Location met: [[The Blue Water Inn]]
 
-Last known location: With the party
+Last known location: [[The Blue Water Inn]]
 
 ![[Szoldar Szoldarovich.png]]
 # Description

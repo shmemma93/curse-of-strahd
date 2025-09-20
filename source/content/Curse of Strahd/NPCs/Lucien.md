@@ -1,6 +1,6 @@
-Location met: [[Village of Barovia]]
+Location met: [[Barovia Town]]
 
-Last known location: [[Village of Barovia]]
+Last known location: [[Barovia Town]]
 # Description
 Age - Child
 

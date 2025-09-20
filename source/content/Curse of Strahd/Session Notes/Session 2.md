@@ -1,7 +1,9 @@
 Link to OG notes: https://docs.google.com/document/d/10MQ5O67Y9ED063wzYoqpwuBLu_KJ_C7eEk8y6BxenJk/edit?tab=t.dk48kfplm7vb
 
 Who was here this session: [[Emereth]], [[Dogorasu]], [[Alder]], [[Galina]], [[Janet]], and [[Matt]]
-
+# TLDR
+We head to the [[Old Bonegrinder Mill]] where we meet [[Main Hag]] before fleeing. We come across the [[Megaliths]] and then a pack of wolves who seem to work for [[Strahd von Zarovich]]. When we reach [[Lake Zarovich]] we save [[Arabelle]] from drowning. We then head to the [[Vistani Camp]] to drop off [[Arabelle]] to her father, [[Vuvash]]. Then we head to [[The Blue Water Inn]] where we find out that they are nearly out of wine. 
+# Detailed Notes
 The party enters the [[Old Bonegrinder Mill]] and takes a look around the ground floor. [[Galina]] opens the cupboard, sees and steals vials labelled youth (golden yellow), laughter (red), and mothers milk (green). 
 
 [[Dogorasu]] heads up to the second floor, [[Janet]], [[Emereth]], and [[Matt]] follow him and they meet [[Main Hag]], she then calls her daughters ([[Hags Daughters]]). [[Emereth]] attacks one of the hags and we all get absolutely wrecked so we all run away. 
@@ -14,9 +16,9 @@ We come across a lake ([[Lake Zarovich]]]), we see a man on a boat drop a sack i
 
 **Quest triggered: [[Return Arabelle to Her Father]]**
 
-We head back to [[Ismark Indirovich]] and [[Ireena Indirovich]] and head to [[Vallaki]] on [[Old Svalich Road]].
+We head back to [[Ismark Koylanovich]] and [[Ireena Kolyana]] and head to [[Vallaki]] on [[Old Svalich Road]].
 
-Once we reach [[Vallaki]], [[Ireena Indirovich]] and [[Ismark Indirovich]] leave the group and we all head to the [[Vistani Camp]] and meet up with [[Vuvash]]. We see that he is whipping [[Alexi]]. 
+Once we reach [[Vallaki]], [[Ireena Kolyana]] and [[Ismark Koylanovich]] leave the group and we all head to the [[Vistani Camp]] and meet up with [[Vuvash]]. We see that he is whipping [[Alexi]]. 
 
 Because we returned [[Arabelle]] safely, we are able to choose two of the following items:
 
@@ -29,7 +31,7 @@ Because we returned [[Arabelle]] safely, we are able to choose two of the follow
 
 We ended up selecting the Onyx chest which contained 600 gold and the small wooden box, which had 12 stoppered gourds with nettle wine in them. 
 
-The group now headed to the [[The Blue Water Inn]]. Here [[Galina]] plays Five Finger Fillet with two drunk guys ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]) in the bar and wins, [[Matt]] finds [[Ismark Indirovich]] and has a chat, [[Emereth]] tries to talk up [[Bard in Blue Water Inn]], but shes not succeeding. [[Janet]] speaks to [[Danicka Martikov]] who confesses that they are nearly out of wine. [[Janet]] agrees but loudly tells the Inn that they are nearly out of wine
+The group now headed to the [[The Blue Water Inn]]. Here [[Galina]] plays Five Finger Fillet with two drunk guys ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]) in the bar and wins, [[Matt]] finds [[Ismark Koylanovich]] and has a chat, [[Emereth]] tries to talk up [[Bard in Blue Water Inn]], but shes not succeeding. [[Janet]] speaks to [[Danicka Martikov]] who confesses that they are nearly out of wine. [[Janet]] agrees but loudly tells the Inn that they are nearly out of wine
 
 **Quest Triggered: [[More Wine!]]**
 

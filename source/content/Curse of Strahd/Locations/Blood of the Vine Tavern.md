@@ -1,4 +1,4 @@
-Located in [[Village of Barovia]]
+Located in [[Barovia Town]]
 
 *Map image if there is one*
 # Description

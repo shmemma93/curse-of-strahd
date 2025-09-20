@@ -1,4 +1,4 @@
-Location met: Met the main hag in [[Village of Barovia]]
+Location met: Met the main hag in [[Barovia Town]]
 
 Last known location: [[Old Bonegrinder Mill]]
 ![[Hags - Pretty.png]]

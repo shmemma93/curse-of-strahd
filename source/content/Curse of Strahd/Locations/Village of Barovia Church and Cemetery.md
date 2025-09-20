@@ -1,4 +1,4 @@
-Located in [[Village of Barovia]]
+Located in [[Barovia Town]]
 
 ![[Village of Barovia Church.jpg]]
 # Description

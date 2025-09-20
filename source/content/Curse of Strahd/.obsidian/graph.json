@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-path:zzztemplates -path:zzzimages  ",
+  "collapse-filter": true,
+  "search": "-path:zzztemplates -path:zzzimages -path:\"Player Characters\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.604590105380162,
+  "scale": 0.5477556656307087,
   "close": true
 }

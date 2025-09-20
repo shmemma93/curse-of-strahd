@@ -1,7 +1,9 @@
 Link to OG notes: https://docs.google.com/document/d/10MQ5O67Y9ED063wzYoqpwuBLu_KJ_C7eEk8y6BxenJk/edit?tab=t.jtg2gjzb1yum
 
 Who was here this session: [[Emereth]], [[Dogorasu]], [[Alder]], [[Galina]], [[Janet]], and [[Matt]]
-
+# TLDR
+[[Danicka Martikov]] provides us with directions to get to [[Wizard of Wines Vineyard]] and we ask [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] to lead us there. [[Davian Martikov]] lets us know about the magic gems which are missing, as a result we choose to head to [[Yesterhill]]. When we get to [[Yesterhill]], [[Janet]] finds a blood spear and we see [[Strahd von Zarovich]] rise the dead and makes a giant tree come to life. We flee back to [[Wizard of Wines Vineyard]] and we fight a number of blights and druids.
+# Detailed Notes
 [[Matt]] asks [[Danicka Martikov]] more about the quest ([[More Wine!]]), she confirms the location of the vineyard. [[Danicka Martikov]] tells us the way but the Hunters [[Galina]] was talking to ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]) could lead us there for a cost. 
 
 As this happens, [[Bard in Blue Water Inn]] leaves the [[The Blue Water Inn]] with a rucksack and says goodbye to [[Danicka Martikov]].
@@ -29,7 +31,7 @@ We continue along the path to [[Wizard of Wines Vineyard]]. Once we get there we
 
 The details about the gems:
 * Five days ago some druids, who are obsessed with dark powers took a gem to [[Yesterhill]]
-* Weeks ago a gem was taken by the witch [[Barbalasaga]], who is in the ruins of [[Barez]]
+* Weeks ago a gem was taken by the witch [[Baba Lysaga]], who is in the ruins of [[Barez]]
 * Many years ago, a gem was dug up and stolen while [[Irwin Martikov]] was on watch.
 
 **Quest triggered: [[Find the Wine Making Gems]]**
