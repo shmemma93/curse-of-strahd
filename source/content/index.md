@@ -4,7 +4,7 @@ title: Curse of Strahd
 
 # Welcome to the Player Notes for Declan's Curse of Strahd Campaign!
 
-In the menu on the left (hopefully) you will see a wiki type structure containing all of the details from the previous sessions. Unfortunately, mobile compatibility is not great, but you can use the search bar to navigate to other pages, I'll see what I can do to make it better.
+In the menu on the left you will see a wiki type structure containing all of the details from the previous sessions. Unfortunately, mobile compatibility is not great, but you can use the search bar to navigate to other pages, I'll see what I can do to make it better.
 
 On each page you will notice a couple of things:
 * There are links out to other pages. 
@@ -19,3 +19,4 @@ This currently includes all notes from:
 * [[Session 3]]
 * [[Session 4]]
 * [[Session 5]]
+* [[Session 6]]

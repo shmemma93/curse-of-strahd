@@ -14,3 +14,6 @@ Species -
 # Associates
 * [[Irwin Martikov]] is her husband
 # Known Aliases
+
+# Other Information
+* Possibly a [[Wereravens]]

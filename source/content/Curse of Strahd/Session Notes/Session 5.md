@@ -10,7 +10,7 @@ As a group we head back to [[St Andral's Cathedral]] and let [[Father Lucian Pet
 
 Now we head to [[Burgomaster of Vallaki's Mansion]], when we arrive the maid answers the door and when we say that we are here on business, she leads is into a foyer. [[Burgomaster Vargus Vallakovich]] heads in and asks us if we are here to help with prep for the Festival of the Blazing Sun. [[Matt]] asks [[Burgomaster Vargus Vallakovich]] to make a deal: we help him and he helps us leave [[Barovia]]. [[Burgomaster Vargus Vallakovich]] loves [[Barovia]] and does not understand why we would want to leave. [[Matt]] mentions that the Vistani are able to leave but [[Burgomaster Vargus Vallakovich]] confirms that the Vistani are working for [[Strahd von Zarovich]]. 
 
-We end up doing to meet [[Baroness Lydia Petrovna]] where nine ladies are having high-tea talking about decorations for the Festival of the Blazing Sun. We help make giant wooden suns out of sticks and sewing clothes for kids. [[Galina]] makes one of the ladies scream and [[Burgomaster Vargus Vallakovich]] busts into the room with two mastiffs. [[Baroness Lydia Petrovna]] talks about the Wachter Brothers ([[Wachter Brother 1]] and [[Wachter Brother 2]]), she also says that [[Lady Wachter]] is a devilish no good heathen. 
+We end up doing to meet [[Baroness Lydia Petrovna]] where nine ladies are having high-tea talking about decorations for the Festival of the Blazing Sun. We help make giant wooden suns out of sticks and sewing clothes for kids. [[Galina]] makes one of the ladies scream and [[Burgomaster Vargus Vallakovich]] busts into the room with two mastiffs. [[Baroness Lydia Petrovna]] talks about the Wachter Brothers ([[Wachter Brother 1]] and [[Wachter Brother 2]]), she also says that [[Lady Fiona Wachter]] is a devilish no good heathen. 
 
 [[Baroness Lydia Petrovna]] wants us to bring people from [[Barovia Town]] and/or [[Krezk]] to come to [[Vallaki]].
 
@@ -24,7 +24,7 @@ We sleep for the night and in the morning we head to [[Blinsky's Toy Store]]. Wh
 
 [[Gadof Blinksy]] tells us that the was given [[Piccolo]] from [[Rictavio]]. [[Fritz von Weerg]] made a clockwork man, which is in [[Ravenloft]]. If we get the clockwork man, we can have [[Piccolo]]. 
 
-**Quest triggered: [[Clockwork Man]]**
+**Quest triggered: [[Recover the Clockwork Man from Ravenloft]]**
 
 # Quests Completed
 * [[Get the Bones of St Andral]]

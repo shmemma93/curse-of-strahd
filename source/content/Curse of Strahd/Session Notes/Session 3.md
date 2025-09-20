@@ -6,7 +6,7 @@ Who was here this session: [[Emereth]], [[Dogorasu]], [[Alder]], [[Galina]], [[J
 # Detailed Notes
 [[Matt]] asks [[Danicka Martikov]] more about the quest ([[More Wine!]]), she confirms the location of the vineyard. [[Danicka Martikov]] tells us the way but the Hunters [[Galina]] was talking to ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]) could lead us there for a cost. 
 
-As this happens, [[Bard in Blue Water Inn]] leaves the [[The Blue Water Inn]] with a rucksack and says goodbye to [[Danicka Martikov]].
+As this happens, [[Rictavio]] leaves the [[The Blue Water Inn]] with a rucksack and says goodbye to [[Danicka Martikov]].
 
 Once [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] wake up, [[Matt]] asks them about guiding us to [[Wizard of Wines Vineyard]]. They state that its 5GP per day total and they do not travel at night. 
 

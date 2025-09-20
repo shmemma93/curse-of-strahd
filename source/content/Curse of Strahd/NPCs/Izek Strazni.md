@@ -1,7 +1,7 @@
-Location met: 
+Location met: [[Vallaki]]
 
-Last known location: 
-
+Last known location: with the party (unconcious)
+![[Izek Strazni.JPG]]
 # Description
 Age - 
 
@@ -14,3 +14,5 @@ Tall, muscular, bald with a scaly arm
 # Known Aliases
 
 # Other Information
+* Lives in [[Burgomaster of Vallaki's Mansion]] 
+* Was an orphan who was found after an accident and was taken in by [[Burgomaster Vargus Vallakovich]] and [[Baroness Lydia Petrovna]]

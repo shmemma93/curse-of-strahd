@@ -18,7 +18,7 @@ Species -
 # Known Aliases
 
 # Other Information
-* Able to turn into a raven.
+* Is a [[Wereravens]]
 * Known member of [[Keepers of the Feather]]
 
 

@@ -31,7 +31,7 @@ Because we returned [[Arabelle]] safely, we are able to choose two of the follow
 
 We ended up selecting the Onyx chest which contained 600 gold and the small wooden box, which had 12 stoppered gourds with nettle wine in them. 
 
-The group now headed to the [[The Blue Water Inn]]. Here [[Galina]] plays Five Finger Fillet with two drunk guys ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]) in the bar and wins, [[Matt]] finds [[Ismark Koylanovich]] and has a chat, [[Emereth]] tries to talk up [[Bard in Blue Water Inn]], but shes not succeeding. [[Janet]] speaks to [[Danicka Martikov]] who confesses that they are nearly out of wine. [[Janet]] agrees but loudly tells the Inn that they are nearly out of wine
+The group now headed to the [[The Blue Water Inn]]. Here [[Galina]] plays Five Finger Fillet with two drunk guys ([[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]) in the bar and wins, [[Matt]] finds [[Ismark Koylanovich]] and has a chat, [[Emereth]] tries to talk up [[Rictavio]], but shes not succeeding. [[Janet]] speaks to [[Danicka Martikov]] who confesses that they are nearly out of wine. [[Janet]] agrees but loudly tells the Inn that they are nearly out of wine
 
 **Quest Triggered: [[More Wine!]]**
 

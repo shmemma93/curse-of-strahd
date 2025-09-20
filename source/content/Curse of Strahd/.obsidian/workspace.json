@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71ddac5a9deb8575",
+        "id": "f355d2033fd64862",
         "type": "tabs",
         "children": [
           {
-            "id": "a489e3a4f69a8f51",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6272a80ec62a2adc",
+            "id": "a305b096bc99361d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Gadof Blinksy.md",
+                "file": "Session Notes/Session 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gadof Blinksy"
+              "title": "Session 6"
             }
           }
         ]
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Yevgeni Krushkin.md",
+                "file": "Session Notes/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yevgeni Krushkin"
+              "title": "Backlinks for Session 6"
             }
           },
           {
@@ -171,8 +161,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,35 +180,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a489e3a4f69a8f51",
+  "active": "a305b096bc99361d",
   "lastOpenFiles": [
-    "Session Notes/Session 5.md",
-    "Szoldar Szoldarovich], [[Wachter Brother 1.md",
-    "NPCs/Gadof Blinksy.md",
-    "Quests/Bring People to Vallaki.md",
-    "Session Notes/Session 4.md",
-    "Quests/Help Mad Mary.md",
-    "Session Notes/Session 1.md",
-    "Quests/Untitled",
-    "NPCs/Fritz von Weerg.md",
+    "NPCs/Ernst.md",
     "NPCs/Rictavio.md",
     "NPCs/Izek Strazni.md",
-    "Locations/Blinsky's Toy Store.md",
-    "NPCs/Blood of the Vine Tavern Barkeep.md",
-    "NPCs/Wachter Brother 2.md",
-    "NPCs/Baba Lysaga.md",
     "NPCs/Wachter Brother 1.md",
-    "NPCs/Szoldar Szoldarovich.md",
-    "NPCs/Yevgeni Krushkin.md",
-    "Locations/Barovia Town.md",
-    "Quests/Completed/Get the Bones of St Andral.md",
-    "Session Notes/Session 2.md",
-    "NPCs/Kolyan Indirovich.md",
-    "NPCs/Ismark Koylanovich.md",
+    "NPCs/Wachter Brother 2.md",
+    "NPCs/Baroness Lydia Petrovna.md",
+    "Session Notes/Session 6.md",
+    "NPCs/Burgomaster Vargus Vallakovich.md",
     "NPCs/Ireena Kolyana.md",
-    "Session Notes/Session 3.md",
-    "Quests/Wizard and I.md",
-    "Locations/Burgomaster of Vallaki's Mansion.md",
+    "Quests/Recover the Clockwork Man from Ravenloft.md",
+    "Session Notes/Session 5.md",
+    "Quests/Meet Rictavio at Lake Baratok.md",
+    "Quests/Coup the Baron.md",
+    "NPCs/Strahd von Zarovich.md",
+    "NPCs/Lady Fiona Wachter.md",
+    "Locations/Lake Barotok.md",
+    "Locations/Lake Zarovich.md",
+    "General/Wereravens.md",
+    "NPCs/Ismark Koylanovich.md",
+    "NPCs/Irwin Martikov.md",
+    "NPCs/Elvir Martikov.md",
+    "NPCs/Davian Martikov.md",
+    "NPCs/Danicka Martikov.md",
+    "NPCs/Adrian Martikov.md",
+    "Locations/Ravenloft.md",
+    "Locations/Lady Wachter's House.md",
+    "zzzimages/NPCs/Wachter Brothers.jpg",
+    "zzzimages/NPCs/Izek Strazni.JPG",
+    "zzzimages/NPCs/Lady Wachter.jpg",
+    "zzzimages/Locations/Lady Wachters House.PNG",
+    "Quests/Untitled",
     "zzzimages/NPCs/Baroness Lydia Petrovna.png.sb-761f73cf-bfP873",
     "zzzimages/NPCs/Baroness Lydia Petrovna.png",
     "zzzimages/NPCs/Burgomaster Vargus Vallakovich copy.png",
@@ -227,12 +220,8 @@
     "zzzimages/NPCs/Burgomaster Vargus Vallakovich.png",
     "zzzimages/NPCs/Vargus.png",
     "zzzimages/Locations/Barons House.PNG",
-    "zzzimages/NPCs/Blinksy.png",
-    "zzzimages/Locations/Blinskys Toy Store.PNG",
     "Untitled.canvas",
     "Quests/Completed",
-    "zzzimages/Locations/Village of Barovia Church.jpg",
-    "zzzimages/Locations/Village of Barovia.jpg",
     "Locations/Henrik Van der Voort's Store",
     "zzzimages/Other",
     "zzzimages/NPCs",

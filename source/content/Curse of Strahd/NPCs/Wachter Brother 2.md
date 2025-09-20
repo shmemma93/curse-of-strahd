@@ -11,7 +11,7 @@ Species -
 
 # Associates
 * [[Wachter Brother 1]] is his brother
-* [[Lady Wachter]] is his mother
+* [[Lady Fiona Wachter]] is his mother
 # Known Aliases
 
 # Other Information

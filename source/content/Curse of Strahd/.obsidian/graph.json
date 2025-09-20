@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
-  "search": "-path:zzztemplates -path:zzzimages -path:\"Player Characters\"  ",
+  "collapse-filter": false,
+  "search": "-path:zzztemplates -path:zzzimages -path:\"Player Characters\" -path:\"Session Notes\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:General  ",
@@ -34,13 +34,6 @@
         "a": 1,
         "rgb": 15400775
       }
-    },
-    {
-      "query": "path:\"Session Notes\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14095845
-      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5477556656307087,
+  "scale": 0.5508630426254666,
   "close": true
 }

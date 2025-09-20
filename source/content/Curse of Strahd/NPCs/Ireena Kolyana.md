@@ -1,6 +1,6 @@
 Location met: [[Burgomaster of Barovia's Mansion]]
 
-Last known location: [[Vallaki]]
+Last known location: with the party
 ![[Ireena Indirovich.jpeg]]
 # Description
 Age - 
