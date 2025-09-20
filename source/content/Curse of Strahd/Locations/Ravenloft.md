@@ -1,4 +1,4 @@
-Parent Location TBC
+Parent Location: near [[Barovia Town]]
 
 *Map image if there is one*
 # Description
