@@ -11,10 +11,14 @@
             "id": "a305b096bc99361d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 5"
             }
           }
         ]
@@ -178,6 +182,8 @@
   },
   "active": "a305b096bc99361d",
   "lastOpenFiles": [
+    "Session Notes/Session 6.md",
+    "Session Notes/Session 5.md",
     "NPCs/Matt's Dad.md",
     "Player Characters/Matt.md",
     "Locations/Yesterhill.md",
@@ -202,8 +208,6 @@
     "Locations/Krezk.md",
     "Locations/Henrik Van der Voorts Shop.md",
     "Locations/Burgomaster of Vallaki's Mansion.md",
-    "Locations/Burgomaster of Barovia's Mansion.md",
-    "Locations/Blood of the Vine Tavern.md",
     "zzzimages/NPCs/Wachter Brothers.jpg",
     "zzzimages/NPCs/Izek Strazni.JPG",
     "zzzimages/NPCs/Lady Wachter.jpg",
