@@ -13,6 +13,8 @@ Species -
 **Characteristics**
 
 # Associates
+* [[Burgomaster Vargus Vallakovich]] is his father
+* [[Baroness Lydia Petrovna]] is presumably his mother
 
 # Known Aliases
 

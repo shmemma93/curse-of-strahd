@@ -1,6 +1,6 @@
 Location met: [[Burgomaster of Barovia's Mansion]]
 
-Last known location: with the party
+Last known location: [[The Blue Water Inn]]
 ![[Ireena Indirovich.jpeg]]
 # Description
 Age - 

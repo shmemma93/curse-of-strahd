@@ -1,8 +1,10 @@
 Location met: [[Vallaki]]
 
-Last known location: with the party (unconcious)
+Last known location: Torture chamber in [[Burgomaster of Vallaki's Mansion]]
 ![[Izek Strazni.JPG]]
 # Description
+*Dead*
+
 Age - 
 
 Species - 
@@ -10,6 +12,8 @@ Species -
 **Characteristics**
 Tall, muscular, bald with a scaly arm
 # Associates
+* [[Burgomaster Vargus Vallakovich]]
+* [[Baroness Lydia Petrovna]]
 
 # Known Aliases
 
