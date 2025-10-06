@@ -1,5 +1,7 @@
 Parent Location: [[Barovia]]
 
-*Map image if there is one*
+![[Barez.PNG]]
+
+![[Barez Map.PNG]]
 # Description
 * Likely in ruins

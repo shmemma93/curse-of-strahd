@@ -1,6 +1,8 @@
 Location met: 
 
 Last known location: [[Yesterhill]]
+
+![[Strahd.png]]
 # Description
 Age - 
 
