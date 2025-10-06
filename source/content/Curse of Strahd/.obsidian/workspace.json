@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/The Torturer.md",
+                "file": "Session Notes/Session 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Torturer"
+              "title": "Session 7"
             }
           }
         ]
@@ -180,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81fd7218fd36307d",
+  "active": "5fcf2451a64201cb",
   "lastOpenFiles": [
+    "Session Notes/Session 8.md",
+    "Quests/The Torturer.md",
     "Quests/What's in the Cellar?.md",
     "Quests/Wizard and I.md",
     "Quests/The Conjurer.md",
@@ -216,8 +218,6 @@
     "zzzimages/Screenshot 2025-10-06 at 11.09.45.png",
     "NPCs/Ezmerelda.md",
     "Locations/Van Richten's Tower.md",
-    "Locations/Baba Lysaga's Creeping Hut.md",
-    "Locations/Barez.md",
     "Quests/Untitled",
     "zzzimages/NPCs/Baroness Lydia Petrovna.png.sb-761f73cf-bfP873",
     "Untitled.canvas",

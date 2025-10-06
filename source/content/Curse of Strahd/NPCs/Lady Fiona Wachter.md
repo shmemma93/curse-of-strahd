@@ -2,7 +2,7 @@ Location met: [[Lady Wachter's House]]
 
 Last known location: [[Lady Wachter's House]]
 
-![[Lady Wachter.jpg]]
+![[Lady Fiona Wachter.jpg]]
 # Description
 Age - 
 

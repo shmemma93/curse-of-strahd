@@ -2,7 +2,7 @@ Link to OG notes: https://docs.google.com/document/d/10MQ5O67Y9ED063wzYoqpwuBLu_
 
 Who was here this session: [[Emereth]], [[Dogorasu]], [[Alder]], [[Galina]], [[Janet]], and [[Matt]]
 # TLDR
-
+We end up finding [[Victor Vallakovich]], who is also trying to leave [[Barovia]] using necromancy and a teleportation spell, but he wants to kill us when we say that we killed [[Baroness Lydia Petrovna]] and [[Burgomaster Vargus Vallakovich]]. After killing  [[Victor Vallakovich]] we meet and free [[Udo Lukovich]] from the torture chamber before putting [[Izek Strazni]] into the torture chamber. We torture [[Izek Strazni]] but he wont say anything about the dolls until [[Galina]] threatens to destroy some. He recognises [[Ireena Kolyana]] and tells us that she features in his dreams, but he refuses to say where the dreams come from, so [[Matt]] kills him. We then head to see [[Lady Fiona Wachter]], who is very thankful that we killed the Burgomaster and his family.  Afterwards we head to the [[Old Bonegrinder Mill]] and when we arrive, we kill the [[Main Hag]] and [[Hags Daughters]].
 
 # Detailed Notes
 We all enter the attic to find a room full of stuff. [[Galina]] walks up to a door at the end of the room and she can hear a young man talking, but cannot make out what is being said. She opens the door and find the following items:
@@ -39,4 +39,4 @@ We drag [[Izek Strazni]] into the torture chamber and put him the shackles and g
 
 We all head to [[The Blue Water Inn]] for a rest then head to see [[Lady Fiona Wachter]] and we let her know that [[Burgomaster Vargus Vallakovich]], [[Baroness Lydia Petrovna]], and [[Izek Strazni]] are all dead. [[Lady Fiona Wachter]] says that she will be in contact with [[Strahd von Zarovich]] and will give is a good reference. 
 
-We leave [[Ireena Kolyana]] at [[The Blue Water Inn]] and head towards the [[Old Bonegrinder Mill]]. When we arrive we manage to kill all of the hags. 
+We leave [[Ireena Kolyana]] at [[The Blue Water Inn]] and head towards the [[Old Bonegrinder Mill]]. When we arrive we manage to kill [[Main Hag]] and [[Hags Daughters]].
