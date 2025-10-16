@@ -8,27 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81fd7218fd36307d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "aa30b695ecc95803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ezmerelda.md",
+                "file": "NPCs/Strahd von Zarovich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ezmerelda"
+              "title": "Strahd von Zarovich"
+            }
+          },
+          {
+            "id": "d5cd9ea29d2abca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/The Torturer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Torturer"
             }
           }
         ],
@@ -191,33 +195,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa30b695ecc95803",
+  "active": "d5cd9ea29d2abca2",
   "lastOpenFiles": [
-    "General/Tome of Strahd von Zarovich.md",
+    "Quests/The Tempter.md",
+    "Quests/The Torturer.md",
+    "Quests/The Donjon.md",
+    "Quests/The Conjurer.md",
+    "Quests/The Bishop.md",
+    "Quests/Recover the Clockwork Man from Ravenloft.md",
+    "Quests/Meet Rictavio at Lake Baratok.md",
+    "Quests/Jailbreak Ravenloft.md",
+    "Quests/Help Mad Mary.md",
+    "Quests/Fuck Strahd.md",
+    "Quests/Break the Wall.md",
+    "Session Notes/Session 9.md",
     "Session Notes/Session 8.md",
-    "NPCs/Ezmerelda.md",
-    "Quests/Coup the Baron.md",
     "Session Notes/Session 7.md",
-    "Quests/Bring People to Vallaki.md",
     "Session Notes/Session 6.md",
+    "NPCs/Strahd von Zarovich.md",
+    "NPCs/Rahadin.md",
+    "NPCs/Gustav Herrenghast.md",
+    "Locations/Ravenloft.md",
+    "NPCs/Ezmerelda.md",
+    "General/Tome of Strahd von Zarovich.md",
+    "Quests/Completed/Coup the Baron.md",
+    "Quests/Bring People to Vallaki.md",
     "Session Notes/Session 2.md",
     "Session Notes/Session 10.md",
     "Session Notes/Session 5.md",
-    "Quests/What's in the Cellar?.md",
-    "NPCs/Strahd von Zarovich.md",
-    "Quests/Jail Break Ravenloft.md",
-    "Quests/Meet Rictavio at Lake Baratok.md",
-    "Session Notes/Session 1.md",
-    "NPCs/Van Richten's Son.md",
-    "NPCs/Rudolph van Richten.md",
-    "NPCs/Rictavio.md",
     "zzzimages/NPCs/Rudolph van Richten.png",
-    "Locations/Van Richten's Tower.md",
-    "Quests/Find the Wine Making Gems.md",
-    "Locations/Baba Lysaga's Creeping Hut.md",
-    "Locations/Barez.md",
-    "Locations/Barovia.md",
-    "NPCs/Muriel.md",
     "zzzimages/Other/Van Richtens Tower Door.png",
     "zzzimages/Other/Vallaki Sign 2.jpg",
     "zzzimages/Other/Vallaki Sign 1.jpg",
@@ -227,8 +233,6 @@
     "zzzimages/NPCs/Hags - Pretty.png",
     "zzzimages/Locations/Henrik Van der Voorts Shop.png",
     "zzzimages/Locations/Van Richtens Tower.png",
-    "NPCs/Escher Belasco.md",
-    "NPCs/Cyrus.md",
     "Quests/Untitled",
     "zzzimages/NPCs/Baroness Lydia Petrovna.png.sb-761f73cf-bfP873",
     "Untitled.canvas",

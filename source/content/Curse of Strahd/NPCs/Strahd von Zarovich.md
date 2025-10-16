@@ -1,6 +1,6 @@
-Location met: 
+Location met: [[Baba Lysaga's Creeping Hut]], initially seen at [[Yesterhill]]
 
-Last known location: [[Yesterhill]]
+Last known location: [[Baba Lysaga's Creeping Hut]] or an illusion in the dining hall at [[Ravenloft]]
 
 ![[Strahd.png]]
 # Description

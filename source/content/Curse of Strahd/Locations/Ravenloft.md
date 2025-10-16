@@ -16,3 +16,4 @@ Bone Room
 ![[Ravenloft Bone Room.png]]
 # Description
 * [[Strahd von Zarovich]]'s castle
+* On entry there is a 50ft wide chasm with a drawbridge

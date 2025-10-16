@@ -8,3 +8,4 @@ Who is this for: [[Madame Eva]]
 
 *"I see a dead village, drowned by a river, ruled by one who has brought great evil into the world."*
 # General Notes
+* Maybe in [[Barez]]? No real clue, just that there is a river there and is definitely a dead town and [[Baba Lysaga]] seems like she bought great evil to the world?

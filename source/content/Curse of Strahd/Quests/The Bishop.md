@@ -8,3 +8,4 @@ Who is this for: [[Madame Eva]]
 
 *"What you seek lies in a pile of treasure beyond a set of amber doors."*
 # General Notes
+* Maybe this is related to the Icon of Ravenloft which [[Matt]] found in [[Session 9]]?

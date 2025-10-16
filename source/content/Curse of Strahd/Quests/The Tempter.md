@@ -8,4 +8,4 @@ Who is this for: [[Madame Eva]]
 
 *"I see a secret place - a vault of temptation hidden behind a woman of great beauty. The evil waits atop his tower of treasure."*
 # General Notes
-* We assume that the 'secret place' is [[Strahd's Secret Temple]]
+* We assume that the 'secret place' is [[Strahd's Secret Temple]]? Maybe we should check out the top of [[Ravenloft]] to be sure?

@@ -35,4 +35,4 @@ She says that she kidnapped [[Van Richten's Son]] and went to hand him to [[Stra
 
 [[Ezmerelda]] confirms to us that [[Strahd von Zarovich]] has a dungeon in [[Ravenloft]] and that there are people down there and that the scaffolding is the way that [[Van Richten's Tower]] is typically entered. 
 
-**Quest triggered: [[Jail Break Ravenloft]]**
+**Quest triggered: [[Jailbreak Ravenloft]]**

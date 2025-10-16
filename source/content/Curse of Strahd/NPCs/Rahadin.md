@@ -8,10 +8,10 @@ Last known location: [[Ravenloft]]
 
 Age - 
 
-Species - 
+Species - Elf
 
 **Characteristics**
-
+Brown skin who is wearing a grey cloak and has scimitar,
 # Associates
 
 # Known Aliases
