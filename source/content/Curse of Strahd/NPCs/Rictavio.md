@@ -11,6 +11,6 @@ Species -
 * pointy beard and pointy ears, fancy clothes
 * Collector of wares and beasts
 # Associates
-
+* Friendly with [[Ezmerelda]]
 # Known Aliases
-* possibly known as Rudolph van Richten
+* Is [[Rudolph van Richten]]

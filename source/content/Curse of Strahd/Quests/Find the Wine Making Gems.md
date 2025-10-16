@@ -16,3 +16,4 @@ There are three gems to find:
 
 # General Notes
 * Went to [[Yesterhill]] in [[Session 3]] and ran away because it was scary as heck
+* Went to [[Barez]] and [[Baba Lysaga's Creeping Hut]] in [[Session 8]] but got our assess whipped by a tree

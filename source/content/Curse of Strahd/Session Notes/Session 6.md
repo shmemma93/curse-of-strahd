@@ -15,7 +15,7 @@ We head back to the Town Square to find [[Wachter Brother 1]] and [[Wachter Brot
 
 We have a chat to [[Wachter Brother 1]] and [[Wachter Brother 2]] who confirm that [[Lady Fiona Wachter]] has beef with [[Burgomaster Vargus Vallakovich]]. [[Matt]] asks about the Burgomaster, he is told that there is a Burgomaster (who has a statue in the town square, which is labelled as 'Ismark Koylanovich'), but of the two most recent, the last was [[Burgomaster Vargus Vallakovich]]'s father. We wonder if [[Ismark Koylanovich]] is named after the statue...
 
-We end up heading tho [[Lady Wachter's House]] for dinner where we see that [[Wachter Brother 1]] and [[Wachter Brother 2]] do not listen to their mother at all. [[Lady Fiona Wachter]] confirms that she works with [[Strahd von Zarovich]], as a result, she wants to perform a coup on [[Burgomaster Vargus Vallakovich]]. She believes that [[Burgomaster Vargus Vallakovich]] dabbles in diabolic magic and [[Strahd von Zarovich]] wants the people of [[Vallaki]] under control. [[Lady Fiona Wachter]] also states that 'her people' used to be the leaders of the town, but for reasons unknown her family fell and the Vallakovich family came into power. 
+We end up heading to [[Lady Wachter's House]] for dinner where we see that [[Wachter Brother 1]] and [[Wachter Brother 2]] do not listen to their mother at all. [[Lady Fiona Wachter]] confirms that she works with [[Strahd von Zarovich]], as a result, she wants to perform a coup on [[Burgomaster Vargus Vallakovich]]. She believes that [[Burgomaster Vargus Vallakovich]] dabbles in diabolic magic and [[Strahd von Zarovich]] wants the people of [[Vallaki]] under control. [[Lady Fiona Wachter]] also states that 'her people' used to be the leaders of the town, but for reasons unknown her family fell and the Vallakovich family came into power. 
 
 **Quest triggered: [[Coup the Baron]]**
 
@@ -23,4 +23,6 @@ We agree that we will hunt down [[Izek Strazni]] tomorrow, so we head to [[The B
 
 **Quest triggered: [[Meet Rictavio at Lake Baratok]]**
 
-We then decide to talk to [[Ireena Kolyana]] and ask about the toy of herself and [[Izek Strazni]]. [[Ireena Kolyana]] lets us know that she has no idea who [[Izek Strazni]] is. We tell her about the plan to coup [[Burgomaster Vargus Vallakovich]], she wants to come along. We all head to [[Burgomaster of Vallaki's Mansion]], once there we unpick the front door, we head upstairs, find and knock [[Izek Strazni]] unconscious. [[Burgomaster Vargus Vallakovich]]'s dogs hear us, but [[Janet]] kills them. 
+We then decide to talk to [[Ireena Kolyana]] and ask about the toy of herself and [[Izek Strazni]]. [[Ireena Kolyana]] lets us know that she has no idea who [[Izek Strazni]] is. We tell her about the plan to coup [[Burgomaster Vargus Vallakovich]], she wants to come along. We all head to [[Burgomaster of Vallaki's Mansion]], once there we unpick the front door, we head upstairs, find and knock [[Izek Strazni]] unconscious. [[Burgomaster Vargus Vallakovich]]'s dogs hear us, but [[Janet]] kills them.
+# Quests Completed
+* [[Coup the Baron]]
