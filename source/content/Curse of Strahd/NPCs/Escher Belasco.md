@@ -1,6 +1,6 @@
 Location met: [[Ravenloft]]
 
-Last known location: 
+Last known location: [[Ravenloft]]
 ![[Escher Belasco.png]]
 # Description
 Age - young

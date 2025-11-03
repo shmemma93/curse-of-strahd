@@ -1,6 +1,6 @@
 Location met: [[The Blue Water Inn]]
 
-Last known location: unknown
+Last known location: with the party
 ![[Rudolph van Richten.png]]
 # Description
 Age - 70ish

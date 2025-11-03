@@ -1,8 +1,7 @@
-Location met: Jail in [[Ravenloft]]
+Location met: Cells at [[Ravenloft]]
 
 Last known location: with the party
 
-![[Emeile.png]]
 # Description
 Age - 
 
@@ -11,6 +10,7 @@ Species -
 **Characteristics**
 
 # Associates
+* [[Galina]] is her sister
 
 # Known Aliases
 

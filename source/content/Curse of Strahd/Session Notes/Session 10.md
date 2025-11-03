@@ -2,7 +2,7 @@ Link to OG notes: https://docs.google.com/document/d/10MQ5O67Y9ED063wzYoqpwuBLu_
 
 Who was here this session: [[Emereth]], [[Dogorasu]], [[Alder]], [[Galina]], [[Janet]], and [[Matt]]
 # TLDR
-
+We meet [[Cyrus]] and he traps us in a portcullis. While we are working to escape [[Galina]] meets [[Escher Belasco]]. We break [[Emeile]], [[Galinas Sister]], and [[Rudolph van Richten]] out of the cells of [[Ravenloft]]. 
 
 # Detailed Notes
 After having a break in [[Rahadin]]'s office, we head back to the Bone Room to investigate behind the door with the Dragon Skull above it. [[Galina]] knocks on the door, there are footsteps and the door opens. [[Galina]] introduces herself to [[Cyrus]] and asks if we can enter the room, we note that he is wearing a chain with an eye and a silver key on it. [[Cyrus]] lets us know that there is nothing of interest here but he can show us to our rooms. 
@@ -32,7 +32,7 @@ In an attempt to free [[Janet]], [[Alder]] creates cubes of ice which allow [[Do
 
 To the left there is a cell with an elaborate pulley system inside with an unconscious man ([[Rudolph van Richten]]) strung up by the pulley system being continually dunked into the water. [[Galina]] cuts the rope and he falls into the water before [[Galina]] drags him back to the group at the base of the stairs. 
 
-[[Galina]] then heads back to the cells and sees a slumped figure on a smashed crate. She picks the lock and recognises her half-sister, who she also brings back to the group. [[Alder]] then guides the water out of hers and [[Rudolph van Richten]]'s lungs to revive them. 
+[[Galina]] then heads back to the cells and sees a slumped figure on a smashed crate. She picks the lock and recognises her half-sister ([[Galinas Sister]]), who she also brings back to the group. [[Alder]] then guides the water out of hers and [[Rudolph van Richten]]'s lungs to revive them. 
 
 Once he is revived, [[Rudolph van Richten]] tells us that he was inhabiting [[Rictavio]]'s being. 
 
