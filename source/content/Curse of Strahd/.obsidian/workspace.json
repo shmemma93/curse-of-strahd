@@ -13,30 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Strahd von Zarovich.md",
+                "file": "Session Notes/Session 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strahd von Zarovich"
+              "title": "Session 10"
             }
           },
           {
-            "id": "d5cd9ea29d2abca2",
+            "id": "e516703436f0d59c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/The Torturer.md",
+                "file": "NPCs/Rudolph van Richten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Torturer"
+              "title": "Rudolph van Richten"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Session Notes/Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 6"
+              "title": "Backlinks for Session 10"
             }
           },
           {
@@ -195,10 +194,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5cd9ea29d2abca2",
+  "active": "aa30b695ecc95803",
   "lastOpenFiles": [
+    "NPCs/Rudolph van Richten.md",
+    "Session Notes/Session 10.md",
+    "NPCs/Emeile.md",
+    "General/Keepers of the Feather.md",
+    "General/Morning Lord.md",
+    "General/Night Hags.md",
+    "General/Wereravens.md",
+    "General/Vampire Lore.md",
+    "NPCs/Escher Belasco.md",
+    "NPCs/Ernst.md",
     "Quests/The Tempter.md",
     "Quests/The Torturer.md",
+    "NPCs/Cyrus.md",
+    "zzzimages/Other/Strahd Portrait.png",
+    "NPCs/Strahd von Zarovich.md",
+    "Session Notes/Session 9.md",
+    "Session Notes/Session 7.md",
+    "General/Tome of Strahd von Zarovich.md",
     "Quests/The Donjon.md",
     "Quests/The Conjurer.md",
     "Quests/The Bishop.md",
@@ -208,26 +223,10 @@
     "Quests/Help Mad Mary.md",
     "Quests/Fuck Strahd.md",
     "Quests/Break the Wall.md",
-    "Session Notes/Session 9.md",
-    "Session Notes/Session 8.md",
-    "Session Notes/Session 7.md",
-    "Session Notes/Session 6.md",
-    "NPCs/Strahd von Zarovich.md",
-    "NPCs/Rahadin.md",
-    "NPCs/Gustav Herrenghast.md",
-    "Locations/Ravenloft.md",
-    "NPCs/Ezmerelda.md",
-    "General/Tome of Strahd von Zarovich.md",
-    "Quests/Completed/Coup the Baron.md",
-    "Quests/Bring People to Vallaki.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 10.md",
-    "Session Notes/Session 5.md",
     "zzzimages/NPCs/Rudolph van Richten.png",
     "zzzimages/Other/Van Richtens Tower Door.png",
     "zzzimages/Other/Vallaki Sign 2.jpg",
     "zzzimages/Other/Vallaki Sign 1.jpg",
-    "zzzimages/Other/Strahd Portrait.png",
     "zzzimages/NPCs/Szoldar Szoldarovich.png",
     "zzzimages/NPCs/Hags - Scary.png",
     "zzzimages/NPCs/Hags - Pretty.png",
